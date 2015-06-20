@@ -8,6 +8,11 @@
 #ihash(196826207) | (
     (#op) &
     #words(topface) |
+    #words(forsvarsmakten) |
+    #words(facegenetic) |
+    #words(erfa) |
+    #words(igame) |
+    #words(yoba-gaming) |
     #words(улиточка) |
     #words(testyourvocab.com) |
     #words(как съебать в ) |
@@ -28,7 +33,8 @@
     #words(добропочт) |
     #words(у меня хер) |
     #words(для аутист) |
-    #words(ачив[ко]) |
+    #words(ачивк) |
+    #words(ачивок) |
     #words(в слове войн) |
     #words(развеиваем мифы о) |
     #words(сидят на шее у мам) |
@@ -38,6 +44,7 @@
     #words(last.fm) |
     #words(анимублядский) |
     #words(музыкальных) |
+    #words(петух кукарекает) |
     #words(хуетред) |
     #words(фап тред) |
     #words(милфотред) |
@@ -50,22 +57,29 @@
     #words(авито) |
     #words(алко) |
     #words(арми) |
+    #words(рейтим) |
     #words(рисовач) |
     #words(баба) |
     #words( кек) |
     #words(богин) |
+    #words(cубкот) |
     #words(вытиран) |
-    #words(ге[йи]) |
+    #words(гей) |
+    #words(геи) |
+    #words(геем) |
     #words(гороскоп) |
     #words(девиа) |
     #words(имён) |
     #words(дудос) |
+    #words(вуз) |
     #words(зайчишки-шалунишки) |
     #words(засмеялся) |
     #words(иисус) |
     #words(камвхор) |
     #words(карасик) |
+    #words(existor.com) |
     #words(крым) |
+    #words(wall171276007_5065) |
     #words(курени) |
     #words(нарк) |
     #words(наськ) |
@@ -79,20 +93,25 @@
     #words(пикап) |
     #words(питурд) |
     #words(поговори со мной) |
-    #words(пр[ои]пук) |
+    #words(припук) |
+    #words(пропук) |
     #words(рашк) |
     #words(реквесты) |
     #words(рентв) |
     #words(роском) |
+    #words(егэ) |
+    #words(похмель) |
     #words(рулетка) |
     #words(русня) |
+    #words(мост в терабитию) |
     #words(сборн) |
     #words(соус) |
     #words(vocaro) |
     #words(футбол) |
     #words(фотошоп) |
     #words(хиддач) |
-    #words(хох[ол]) |
+    #words(хохол) |
+    #words(хохл) |
     #words(цветочки-розочки) |
     #words(шишку) |
     #words(заработок без) |
