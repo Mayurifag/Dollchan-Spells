@@ -7,8 +7,6 @@
 #ihash(168198000) |
 #ihash(196826207) | (
     (#op) &
-    #imgn(/\.gif/i) |
-    #imgn(/\.webm/i) |
     #words(topface) |
     #words(улиточка) |
     #words(testyourvocab.com) |
@@ -18,7 +16,6 @@
     #words(хаксбол) |
     #words(топфейс) |
     #words(miss.jen) |
-    #words(webm) |
     #words(кубач) |
     #words(музыкальный тред) |
     #words(haxball) |
@@ -29,10 +26,25 @@
     #words(ustream.tv/channel/level-cinema-b) |
     #words(butthurt) |
     #words(добропочт) |
+    #words(у меня хер) |
+    #words(для аутист) |
+    #words(ачив[ко]) |
+    #words(в слове войн) |
+    #words(развеиваем мифы о) |
+    #words(сидят на шее у мам) |
     #words(нацист) |
+    #words(хотели ли бы вы) |
+    #words(считаем до) |
     #words(last.fm) |
+    #words(анимублядский) |
+    #words(музыкальных) |
+    #words(хуетред) |
+    #words(фап тред) |
+    #words(милфотред) |
     #words(pашк) |
+    #words(карлан) |
     #words(украин) |
+    #words(я джва года мечтаю о такой игре) |
     #words(крипи) |
     #words(лонгборд) |
     #words(авито) |
@@ -40,6 +52,7 @@
     #words(арми) |
     #words(рисовач) |
     #words(баба) |
+    #words( кек) |
     #words(богин) |
     #words(вытиран) |
     #words(ге[йи]) |
@@ -66,7 +79,6 @@
     #words(пикап) |
     #words(питурд) |
     #words(поговори со мной) |
-    #words(порн) |
     #words(пр[ои]пук) |
     #words(рашк) |
     #words(реквесты) |
