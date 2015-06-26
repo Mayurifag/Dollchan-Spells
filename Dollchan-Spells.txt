@@ -1,4 +1,5 @@
 #words(внимательно рассмотри человека на прилагающейся фотографии) |
+#words(карл) |
 #words(назвал бытю лысым) |
 #words(▲) |
 #exp(/[^a-zа-я](?:re|ре)?(?:roll|ролл)/i) |
@@ -8,12 +9,19 @@
 #ihash(196826207) | (
     (#op) &
     #words(topface) |
+    #words(springbell) |
+    #words(heroeswm) |
     #words(forsvarsmakten) |
     #words(facegenetic) |
     #words(erfa) |
+    #words(dps-fm) |
     #words(igame) |
+    #words(loveboro) |
+    #words(в качалк) |
     #words(yoba-gaming) |
+    #words(11 −) |
     #words(улиточка) |
+    #words(шерлок) |
     #words(testyourvocab.com) |
     #words(как съебать в ) |
     #words(но слушаю тред) |
@@ -24,6 +32,7 @@
     #words(кубач) |
     #words(музыкальный тред) |
     #words(haxball) |
+    #words(поезд) |
     #words(угадай ) |
     #words(burger king) |
     #words(ньюфаги не знают) |
@@ -57,7 +66,12 @@
     #words(авито) |
     #words(алко) |
     #words(арми) |
+    #words(terraria) |
+    #words(unreal tournament) |
+    #words(dark souls) |
+    #words(s.t.a.l.k.e.r) |
     #words(рейтим) |
+    #words(fallout) |
     #words(рисовач) |
     #words(баба) |
     #words( кек) |
