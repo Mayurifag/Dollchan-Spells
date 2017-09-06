@@ -1,4 +1,4 @@
-# Dollchan-Spells
+# Yet another Dollchan spells
 Spells for https://github.com/SthephanShinkufag/Dollchan-Extension-Tools
 
-Feel free to pull requests.
+TODO: move to gist
