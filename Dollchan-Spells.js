@@ -1,27 +1,41 @@
-#words(хочу как пикрил) |
 #words(/gg/) |
+#words(postcount) |
+#words(youdo) |
+#words(винишко) |
 #words(внимательно рассмотри человека на прилагающейся фотографии) |
 #words(дабл думаю) |
+#words(если ты напишешь в этом треде) |
+#words(если ты напишешь в этот тред) |
 #words(карл) |
+#words(кольца сатурн) |
+#words(космоса тред) |
+#words(лучший смартфон за) |
 #words(назвал бытю лысым) |
+#words(нёх тред) |
 #words(пасскод) |
 #words(раздаю биткоин) |
 #words(спасибо абу) |
+#words(твои действия?) |
 #words(тредшот) |
+#words(храмом головы) |
 #words(▲) |
 #exp(/[^a-zа-я](?:re|ре)?(?:roll|ролл)/i) |
-#exp(/^(?:bump|up|бамп|вверх|выше)$/i) |
+#exp(/^(?:bump|up|бамп|вверх)$/i) |
 #wipe(samewords,longwords,symbols,numbers,whitespace) |
+#imgn(/getin\.jpg/) |
+#ihash(16713856) |
 #ihash(168198000) |
 #ihash(188568671) |
 #ihash(196826207) |
 #img(=129@501x485) | (
     (#op) &
     #words(11 −) |
+    #words(arhivach.org/thread/289402/) |
     #words(boinc) |
     #words(burger king) |
     #words(butthurt) |
-    #words(cубкот) |
+    #words(csharp) |
+    #words(субкот) |
     #words(dark souls) |
     #words(download/windows10) |
     #words(dps-fm) |
@@ -53,7 +67,6 @@
     #words(авито) |
     #words(алко) |
     #words(анимублядский) |
-    #words(антивирус) |
     #words(арми) |
     #words(ачивк) |
     #words(ачивок) |
@@ -62,6 +75,7 @@
     #words(быдлотред) |
     #words(в качалк) |
     #words(в слове войн) |
+    #words(вагину на али) |
     #words(вуз) |
     #words(вытиран) |
     #words(геем) |
@@ -77,6 +91,7 @@
     #words(для аутист) |
     #words(добропочт) |
     #words(дудос) |
+    #words(заработка в интернете) |
     #words(егэ) |
     #words(зайчишки-шалунишки) |
     #words(заработок без) |
@@ -89,7 +104,6 @@
     #words(камвхор) |
     #words(карасик) |
     #words(карлан) |
-    #words(космоса тред) |
     #words(крипи) |
     #words(крым) |
     #words(кубач) |
@@ -102,7 +116,6 @@
     #words(нарк) |
     #words(наськ) |
     #words(нацист) |
-    #words(нёх тред) |
     #words(никогда не будет с) |
     #words(но слушаю тред) |
     #words(новое видео) |
@@ -145,6 +158,7 @@
     #words(топфейс) |
     #words(тред травли) |
     #words(тред тян 10 из) |
+    #words(тянок 10/10) |
     #words(у меня день рождения) |
     #words(у меня хер) |
     #words(угадай ) |
@@ -167,3 +181,7 @@
     #words(эбол) |
     #words(я джва года мечтаю о такой игре)
 )
+
+#rep(/в?(к|контакте|тентакле|параше|кудахте|паше|дурове?)\.(ком|com)/ig,vk.com)
+#rep(/http://ru.aliexpress.com/g,http://aliexpress.com)
+#outrep(/http://ru.aliexpress.com/g,http://aliexpress.com)
